@@ -1,5 +1,18 @@
 This is my personal dwm for Void Linux.
 
-<img width="1920" height="1080" alt="2026-05-18-202638_1920x1080_scrot" src="https://github.com/user-attachments/assets/32c0ad51-6ecf-45d6-b0eb-0e6ccf066a24" />
-<img width="1920" height="1080" alt="2026-05-18-202031_1920x1080_scrot" src="https://github.com/user-attachments/assets/6bebbc15-3e9c-44b7-bdde-347926ac28ea" />
-<img width="1920" height="1080" alt="2026-05-18-201830_1920x1080_scrot" src="https://github.com/user-attachments/assets/cf6c6cfe-a208-4db5-9e5b-c3529e9cd829" />
+<img width="1600" height="900" alt="2026-07-30-001343" src="https://github.com/user-attachments/assets/d42f722a-e3ba-447a-abd9-d0af65a0a40b" />
+<img width="1600" height="900" alt="2026-07-30-001432" src="https://github.com/user-attachments/assets/fa1e65bb-cf98-47d4-9042-86466d69f954" />
+<img width="1600" height="900" alt="2026-07-30-001737" src="https://github.com/user-attachments/assets/dcbf0189-3238-447d-9ab7-51480122e3c8" />
+
+for my personal use, i use the current packages from xbps:
+scrot for screenshots
+betterlockscreen for screen lock
+pavucontrol to control volume
+
+ALT+a you open the as floating window
+PRINT key you screenshot all your entire screen and saves on a directory called "screenshots"
+ALT+PRINT you can select a specific area to print
+
+this dwm have systray patch too, and i use my personal slstatus too
+
+Install Iosevka font or change in config.h
