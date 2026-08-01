@@ -10,9 +10,14 @@ betterlockscreen for screen lock
 pavucontrol to control volume
 
 ALT+a you open the as floating window
+
 PRINT key you screenshot all your entire screen and saves on a directory called "screenshots"
+
 ALT+PRINT you can select a specific area to print
+(i recommend you create a directory to screenshots)
 
-this dwm have systray patch too, and i use my personal slstatus too
+ALT+P you lock your screen
 
-Install Iosevka font or change in config.h
+this dwm have systray patch too, and i use my personal slstatus as bar. (you can use dwmblocks if you want)
+
+Install Iosevka font or change in config.h to your personal preferences.
