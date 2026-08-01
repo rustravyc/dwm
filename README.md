@@ -5,9 +5,9 @@ This is my personal dwm for Void Linux.
 <img width="1600" height="900" alt="2026-07-30-001737" src="https://github.com/user-attachments/assets/dcbf0189-3238-447d-9ab7-51480122e3c8" />
 
 for my personal use, i use the current packages from xbps:
-scrot for screenshots
-betterlockscreen for screen lock
-pavucontrol to control volume
+scrot for screenshots,
+betterlockscreen for screen lock and
+pavucontrol to control volume.
 
 ALT+a you open the as floating window
 
