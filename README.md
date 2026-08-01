@@ -9,7 +9,7 @@ scrot for screenshots,
 betterlockscreen for screen lock and
 pavucontrol to control volume.
 
-ALT+a you open the as floating window
+ALT+a you open the pavucontrol as floating window
 
 PRINT key you screenshot all your entire screen and saves on a directory called "screenshots"
 
@@ -19,5 +19,7 @@ ALT+PRINT you can select a specific area to print
 ALT+P you lock your screen
 
 this dwm have systray patch too, and i use my personal slstatus as bar. (you can use dwmblocks if you want)
+
+and i strongly recommend you use rofi instead of dmenu.
 
 Install Iosevka font or change in config.h to your personal preferences.
