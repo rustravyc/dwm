@@ -1,8 +1,8 @@
 This is my personal dwm for Void Linux.
 
-<img width="1600" height="900" alt="2026-07-30-001343" src="https://github.com/user-attachments/assets/d42f722a-e3ba-447a-abd9-d0af65a0a40b" />
-<img width="1600" height="900" alt="2026-07-30-001432" src="https://github.com/user-attachments/assets/fa1e65bb-cf98-47d4-9042-86466d69f954" />
-<img width="1600" height="900" alt="2026-07-30-001737" src="https://github.com/user-attachments/assets/dcbf0189-3238-447d-9ab7-51480122e3c8" />
+<img width="1600" height="900" alt="2026-08-19-153610" src="https://github.com/user-attachments/assets/75181db1-4d40-4085-a9f0-d1c487c4a458" />
+<img width="1600" height="900" alt="2026-08-19-153617" src="https://github.com/user-attachments/assets/b699bebd-3a9a-4d2c-8849-e6872740ab35" />
+
 
 for my personal use, i use the current packages from xbps:
 scrot for screenshots,
