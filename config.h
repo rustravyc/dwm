@@ -73,8 +73,8 @@ static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() 
 static const char *dmenucmd[] = { "rofi", "-show", "drun", NULL };
 static const char *termcmd[]  = { "st", NULL };
 static const char *pvcmd[] = { "pavucontrol", NULL };
-static const char *printfull[]   = { "sh", "-c", "scrot $HOME/screenshots/$(date +%Y-%m-%d-%H%M%S).png", NULL };
-static const char *printselect[] = { "sh", "-c", "scrot -s $HOME/screenshots/$(date +%Y-%m-%d-%H%M%S).png", NULL };
+static const char *printfull[]   = { "sh", "-c", "maim $HOME/screenshots/$(date +%Y-%m-%d-%H%M%S).png", NULL };
+static const char *printselect[] = { "sh", "-c", "maim -s $HOME/screenshots/$(date +%Y-%m-%d-%H%M%S).png", NULL };
 static const char *powermenu[] = { "/home/ravyc/.local/bin/powermenu.sh", NULL };
 
 static const Key keys[] = {
