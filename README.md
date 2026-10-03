@@ -1,4 +1,5 @@
 This is my personal *FLOATING* dwm (on Void Linux)
+Is a dwm patched and modified to look like a labwc or openbox (floating window manager)
 
 <img width="1600" height="900" alt="2026-08-19-153610" src="https://github.com/user-attachments/assets/75181db1-4d40-4085-a9f0-d1c487c4a458" />
 <img width="1600" height="900" alt="2026-08-19-153617" src="https://github.com/user-attachments/assets/b699bebd-3a9a-4d2c-8849-e6872740ab35" />
